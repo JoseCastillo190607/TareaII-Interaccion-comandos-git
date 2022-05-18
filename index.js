@@ -566,3 +566,5 @@ console.log("Hola"=="Hola");
 
 //OPERADOR DE DESIGUALDAD
  // el operador de desigualdad funciona /=
+ // staged area stagging prueba/////
+ 
