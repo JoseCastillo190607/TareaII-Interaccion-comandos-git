@@ -565,3 +565,4 @@ console.log("Hola"=="Hola");
     console.log(a === b); //true
 
 //OPERADOR DE DESIGUALDAD
+ // el operador de desigualdad funciona /=
